@@ -22,4 +22,12 @@ return new class extends Migration
             $table->string('zip');
         });
     }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('students');
+    }
 };
