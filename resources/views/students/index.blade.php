@@ -34,7 +34,6 @@
                                         <th>Age</th>
                                         <th>Address</th>
                                         <th>Zip</th>
-                                        <th>Kyle Titi</th>
                                     </tr>
                                 </thead>
 
